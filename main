@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(255, 127, 223);
+    font-size: 2.1em;
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+
+}
+h1 {
+    text-align: center;
+    color:rgb(162, 0, 255)
+}
+#intro {
+    font-size: 1.0em;
+    color:brown
+}
+.colorful {
+    color:blue
+}
+p {
+    text-align: center;
+    color:rgb(20, 17, 1);
+    text-align: center;
+    margin-right: 200px;
+}
